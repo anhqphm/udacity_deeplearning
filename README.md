@@ -18,7 +18,7 @@ Project: Bike Sharing
 
 
 ### 3. Convolutional Neural Networks
-Project: Dog-Breed Classifier
+Project: [Dog-Breed Classifier](https://github.com/quinnphm/udacity_deeplearning/tree/master/3.%20Convolutional%20Neural%20Networks/Project:%20Dog%20Breed%20Classifier)
 
 
 ### 4. Recurrent Neural Networks
@@ -30,4 +30,4 @@ Project: Generate Faces
 
 
 ### 6. Deploying a model
-Project: Deploying a Sentiment Analysis Model
+Project: [Deploying a Sentiment Analysis Model](https://github.com/quinnphm/udacity_deeplearning/tree/master/6.%20Deploying%20a%20Model)
