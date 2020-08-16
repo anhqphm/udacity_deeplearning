@@ -14,7 +14,7 @@ This is a Code repository for some projects that I completed as part of the Nano
 
 
 ### 2. Neural Networks
-Project: Bike Sharing
+Project: [Predicting Bike Sharing patterns](https://github.com/anhqphm/udacity_deeplearning/tree/master/2.%20Neural%20Networks/Project:%20Predicting%20Bike%20Sharing%20Patterns)
 
 
 ### 3. Convolutional Neural Networks
@@ -22,11 +22,11 @@ Project: [Dog-Breed Classifier](https://github.com/quinnphm/udacity_deeplearning
 
 
 ### 4. Recurrent Neural Networks
-Project: Generate TV Scripts
+Project: [Generate TV Scripts](https://github.com/anhqphm/udacity_deeplearning/tree/master/4.%20Recurrent%20Neural%20Networks/Project:%20Generate%20TV%20Scripts)
 
 
 ### 5. Generative Adversarial Networks
-Project: Generate Faces
+Project: [Generate Faces](https://github.com/anhqphm/udacity_deeplearning/tree/master/5.%20Generative%20Adversarial%20Networks/Project:%20Generate%20Faces)
 
 
 ### 6. Deploying a model
